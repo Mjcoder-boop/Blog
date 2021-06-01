@@ -1,0 +1,10 @@
+#electroflak, #prometheus, #rhinofire, #titancs50{
+    height: 500px;
+    width: 500px;
+    border-style: dotted;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+body{
+    background-image: linear-gradient(#59d9de, #21d927, #0f571b, #1b2085, #781b85, #c9162e);
+}
